@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     #my apps
-    'main'
+    'main',
+    'reviews',
 ]
 
 MIDDLEWARE = [
